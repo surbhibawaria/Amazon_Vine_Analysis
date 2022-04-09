@@ -1,8 +1,12 @@
 # Amazon_Vine_Analysis
 
-# Overview of the analysis
+# Overview of the Analysis
+
+BigMarket is a startup that helps business optimize their marketing efforts. One of BigMarket's clients has requested some pretty hefty analysis. The client $ellby is about to release a large catalog of products on a leading retail website. They want to know how the reviews of their products compare to the reviews of similar products sold by their competitors. They're also interested in enrolling in a program that gives out free product to select reviewers but they want to know if it's worth the cost. There are thousands of reviews and they're in words not numbers so they need to be translated for the analysis. 
 
 ## Purpose
+
+The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. To use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin and then use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset.
 
 
 # Results
