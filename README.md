@@ -6,7 +6,7 @@ BigMarket is a startup that helps business optimize their marketing efforts. One
 
 ### Purpose
 
-The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. To use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin and then use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset.
+The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. PySpark is used to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin and then to either use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 
 ## Results
