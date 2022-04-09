@@ -44,6 +44,6 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 
 ## Summary:
 
-- Based on the results of the analysis, there is no positivity bias for reviews in the Vine program considering that 61% of the non-Vine reviews were five stars wheres as only 36% of the Vine reviews were five stars. This suggests that the Vine program is not very effective in this category.
+- Based on the results of the analysis, there is no positivity bias for reviews in the Vine program considering that 61% of the non-Vine reviews were five stars wheresas only 36% of the Vine reviews were five stars. This suggests that the Vine program is not very effective in this category.
 
 - To further analyse the results, additional analysis could be done with the dataset by analyzing statistical summary (i.e, finding mean, median and mode) of the star rating of Vine and non-Vine reviews.
